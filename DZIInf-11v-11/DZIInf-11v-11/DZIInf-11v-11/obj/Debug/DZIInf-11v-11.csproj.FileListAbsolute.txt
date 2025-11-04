@@ -1,0 +1,7 @@
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\bin\Debug\DZIInf-11v-11.exe.config
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\bin\Debug\DZIInf-11v-11.exe
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\bin\Debug\DZIInf-11v-11.pdb
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\obj\Debug\DZIInf-11v-11.csprojResolveAssemblyReference.cache
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\obj\Debug\DZIInf-11v-11.csproj.CoreCompileInputs.cache
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\obj\Debug\DZIInf-11v-11.exe
+C:\Users\Student1\source\repos\DZIInf-11v-11\DZIInf-11v-11\obj\Debug\DZIInf-11v-11.pdb

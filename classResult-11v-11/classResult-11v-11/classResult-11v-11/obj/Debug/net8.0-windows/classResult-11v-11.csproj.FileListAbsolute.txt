@@ -1,0 +1,32 @@
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.exe
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.deps.json
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.runtimeconfig.json
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.dll
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.pdb
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult_11v_11.Form1.resources
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.AssemblyInfo.cs
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.dll
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\refint\classResult-11v-11.dll
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.pdb
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.genruntimeconfig.cache
+C:\Users\User\OneDrive - MG Baba Tonka - Ruse\Документи\Kalina\Информатика\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\ref\classResult-11v-11.dll
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult_11v_11.Form1.resources
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.csproj.GenerateResource.cache
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.AssemblyInfo.cs
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.dll
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\refint\classResult-11v-11.dll
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.pdb
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.exe
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.deps.json
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.runtimeconfig.json
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.dll
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\bin\Debug\net8.0-windows\classResult-11v-11.pdb
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\classResult-11v-11.genruntimeconfig.cache
+C:\Users\User\Downloads\classResult-11v-11\classResult-11v-11\classResult-11v-11\obj\Debug\net8.0-windows\ref\classResult-11v-11.dll
