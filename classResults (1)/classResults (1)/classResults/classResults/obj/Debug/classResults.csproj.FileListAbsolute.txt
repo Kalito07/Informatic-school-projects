@@ -1,0 +1,22 @@
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\bin\Debug\classResults.exe.config
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\bin\Debug\classResults.exe
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\bin\Debug\classResults.pdb
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.csprojResolveAssemblyReference.cache
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.Form1.resources
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.Properties.Resources.resources
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.csproj.GenerateResource.cache
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.csproj.CoreCompileInputs.cache
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.exe
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.pdb
+E:\STUDENTS\11v\classResults (1)\classResults\classResults\obj\Debug\classResults.Form2.resources
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\bin\Debug\classResults.exe.config
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\bin\Debug\classResults.exe
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\bin\Debug\classResults.pdb
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.Form1.resources
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.Form2.resources
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.Properties.Resources.resources
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.csproj.GenerateResource.cache
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.exe
+C:\Users\User\Downloads\classResults (1)\classResults (1)\classResults\classResults\obj\Debug\classResults.pdb
